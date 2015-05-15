@@ -9,6 +9,7 @@ $chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
 		
 		for($i=0;$i<=25;$i++){
 			echo '<pre>'.$i.'&nbsp;&nbsp;&nbsp;';
+			echo '<pre>'.$i.'thushali rathnayake';
 			get_id();
 			echo '</pre>';
 			}
